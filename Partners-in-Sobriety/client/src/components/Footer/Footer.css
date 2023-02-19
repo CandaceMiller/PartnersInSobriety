@@ -1,0 +1,23 @@
+footer {
+    color: aqua !important;
+    display: flex;
+    justify-content: space-evenly;
+}
+.email {
+    color: aqua;
+}
+.email:hover {
+    color: black;
+}
+#facebookLogo,  
+#twitterLogo, 
+#linkedInLogo, 
+#instagramLogo {
+    color: aqua !important;
+}
+#facebookLogo:hover,  
+#twitterLogo:hover, 
+#linkedInLogo:hover, 
+#instagramLogo:hover {
+    color: black !important;
+}

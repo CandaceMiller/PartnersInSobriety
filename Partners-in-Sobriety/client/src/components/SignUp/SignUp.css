@@ -1,0 +1,39 @@
+.signUp {
+    background-color: aqua !important;
+    color: black !important;
+}
+.signUp:hover,
+.signUp {
+    border-radius: 10px !important;
+}
+.signUp:hover,
+.signMeUp {
+    background-color: black !important;
+}
+.modal-content {
+    background-image: linear-gradient(180deg, darkgrey, aqua 50%, darkgrey)
+}
+.modal-header,
+.signMeUp {
+      color: aqua !important;
+}
+.signMeUp,
+.signUp {
+      border: 2px solid black !important;
+}
+.signMeUp:hover {
+      border: 2px solid black !important;
+      color: black !important;
+      background-color: aqua !important;
+}
+.signUp:hover {
+    border: 2px solid aqua !important;
+    background-color: black !important;
+    color: aqua !important;
+}
+.male,
+.female,
+.picks,
+.check {
+    align-items: center !important;
+}

@@ -1,0 +1,25 @@
+.site {
+    color: aqua;
+}
+.quest1,
+.quest2,
+.quest3,
+.quest4,
+.quest5 {
+    margin-bottom: 20px;
+}
+.answers {
+color: aqua !important;
+}
+.home,
+.logMeOut {
+    background-color: aqua !important;
+    color: black !important;
+    border: 2px solid black !important;
+}
+.home:hover,
+.logMeOut:hover {
+    background-color: black !important;
+    color: aqua !important;
+    border: 2px solid aqua !important;
+}

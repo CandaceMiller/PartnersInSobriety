@@ -1,0 +1,19 @@
+.moreInfo {
+    color: black !important;
+    background-color: aqua !important;
+    border-radius: 10px !important;
+    border: 2px solid black !important;
+}
+.moreInfo:hover {
+    color: aqua !important;
+    background-color: black !important;
+    border: 2px solid aqua !important;
+}
+.welcome,
+.congrats {
+    color: aqua !important;
+    text-decoration-line: underline;
+}
+.congrats {
+    margin-bottom: 100px;
+}

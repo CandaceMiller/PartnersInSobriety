@@ -1,0 +1,25 @@
+.logMeOut {
+    margin-top: 100px;
+}
+.allSponsorsBtn,
+.allAddictsBtn,
+.allVolunteersBtn,
+.allMatchesBtn {
+    background-color: aqua !important;
+    color: black !important;
+    border: 2px solid black !important;
+}
+.allSponsorsBtn:hover,
+.allAddictsBtn:hover,
+.allVolunteersBtn:hover,
+.allMatchesBtn:hover {
+    background-color: black !important;
+    color: aqua !important;
+    border: 2px solid aqua !important;
+}
+.allMatchesBtn {
+    margin-bottom: 100px;
+}
+.manage {
+    text-decoration-line: underline;
+}

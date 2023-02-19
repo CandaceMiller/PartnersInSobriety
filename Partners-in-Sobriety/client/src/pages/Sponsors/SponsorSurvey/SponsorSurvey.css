@@ -1,0 +1,29 @@
+h4,
+.one,
+.two,
+.three,
+.four,
+.five {
+    color: aqua !important;
+}
+.survey {
+    margin-top: 70px !important;
+}
+.quest1,
+.quest2,
+.quest3,
+.quest4,
+.quest5 {
+    margin-bottom: 20px;
+}
+.match {
+    color: aqua !important;
+    border: 2px solid aqua !important;
+    border-radius: 10px !important;
+    background-color: black !important;
+}
+.match:hover {
+    color: black !important;
+    background-color: aqua !important;
+    border: 2px solid black !important;
+}

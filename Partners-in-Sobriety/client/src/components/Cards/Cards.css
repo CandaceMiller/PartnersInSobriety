@@ -1,0 +1,23 @@
+.card-text,
+Button {
+    color: black !important;
+}
+.delBtn:hover,
+.updateBtn:hover {
+    background-color: aqua !important;
+    border: 2px solid black !important;
+    color: black !important;
+}
+.delBtn,
+.updateBtn {
+    background-color: black !important;
+    color: aqua !important;
+    border: 2px solid black !important;
+}
+.card-body {
+    background-color: aqua !important;
+    border: 2px solid black !important;
+}
+.myCard {
+    margin-bottom: 100px;
+}

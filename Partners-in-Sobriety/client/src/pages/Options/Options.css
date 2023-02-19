@@ -1,0 +1,24 @@
+.title,
+.city,
+.time {
+    display: flex;
+    justify-content: center;
+}
+.shadowbox5 {
+    background-image: linear-gradient(180deg, darkgrey, black 50%, darkgrey);
+    border: 2px solid aqua;
+    box-shadow: 8px 8px 5px aqua;
+}
+h3 {
+    color: aqua !important;
+}
+.aboutSpons,
+.aboutAdd,
+.aboutVol {
+    border: 4mm ridge aqua;
+    margin-top:20px;
+    color: aqua !important;
+}
+.options {
+    margin-bottom: 100px;
+}

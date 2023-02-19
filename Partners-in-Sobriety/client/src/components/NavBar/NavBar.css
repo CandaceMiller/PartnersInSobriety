@@ -1,0 +1,49 @@
+.shadowbox {
+    background-image: linear-gradient(180deg, darkgrey, black 50%, darkgrey);
+    border: 2px solid aqua;
+    box-shadow: 8px 8px 5px aqua;
+ }
+.shadowbox2,
+.shadowbox3,
+.shadowbox4 {
+    width: 225px !important;
+}
+.shadowbox,
+.shadowbox2,
+.shadowbox3,
+.shadowbox4 {
+    font-family: fantasy;
+    border: 2px solid aqua;
+    box-shadow: 8px 8px 5px aqua;
+    padding: 8px 12px;
+}
+.shadowbox2,
+.shadowbox3,
+.shadowbox4 {
+    color: aqua;
+}
+.flex-container {
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: space-evenly;
+    color: aqua;
+}
+.congrats,
+.city {
+    color: aqua;  
+}
+.title {
+    display: flex;
+    align-items: center;
+}
+.city {
+    margin-left: 20px;
+}
+.congrats,
+.welcome {
+    font-family: fantasy;
+}
+.footer {
+    border-top: 2px solid aqua;
+    background-image: linear-gradient(180deg, black, darkgrey 50%, black);
+}

@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(50deg, darkgrey, black 20%, darkgrey)
+}
+.group,
+p,
+.time,
+.rehab,
+.info,
+.address,
+.ride,
+.work,
+.Rides {
+    color: aqua;
+}
+.set,
+.clean,
+.rideTo,
+.rideFrom,
+.runThis {
+    background-color: black !important;
+    color:aqua !important;
+    border: 2px solid aqua !important;
+    border-radius: 10px !important;
+}
+.set:hover,
+.clean:hover,
+.rideTo:hover,
+.rideFrom:hover,
+.runThis:hover {
+    color: black !important;
+    background-color: aqua !important;
+}
+.address:hover {
+    color: darkgrey !important;
+}
